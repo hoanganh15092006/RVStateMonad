@@ -19,7 +19,7 @@ index-state:
 
 packages: 
     Utilities
-    RVStateMonad1
+    RVStateMonad
 
 -- We never, ever, want this.
 write-ghc-environment-files: never
